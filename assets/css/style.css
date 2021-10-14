@@ -1,0 +1,76 @@
+@font-face {
+    font-family: "alkanz";
+    src: url("../fonts/Al-Kanz.ttf");
+    }
+
+    .ar {
+        font-family: 'alkanz';
+
+    }
+    .ha {
+        color: red;
+    }
+
+    .heading {
+        color: #525609;
+    }
+
+
+    .ar-sz {
+        font-size: 30px;
+    }
+
+    @font-face {
+        font-family: traditional-arabic;
+        src: url("../fonts/trado.ttf");
+    }
+
+    @font-face {
+        font-family: traditional-arabic-bold;
+        src: url("../fonts/tradbdo.ttf");
+    }
+
+.ta {
+    font-family: traditional-arabic !important;
+    font-size: 30px;
+    /* direction: rtl; */
+}
+
+.tnr {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.knz {
+    font-family: 'Al-Kanz';
+}
+
+
+
+.bgimg {
+    background-image:url("https://jis.iou.edu.gm/public/journals/1/homepageImage_en_US.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+.hds {
+    font-size: 40px;
+    background-color: #e1ea37 ;
+}
+
+.panel {
+    border: 5px solid #ddd !important;
+    border-radius: 15px !important;
+}
+
+.imp {
+    color: maroon;
+}
+
+.white {
+    color: #fff;
+}
+
+.bg {
+    background-image: url("https://wallpaper-house.com/data/out/9/wallpaper2you_363852.jpg") ;
+    background-size: cover;
+}
